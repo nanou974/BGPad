@@ -1,0 +1,4 @@
+/home/pi/BGPad/build/bgpad_autogen/include/../M4YTXQ7V2H/moc_ApplicationModel.cpp.json
+/home/pi/BGPad/build/bgpad_autogen/include/../METKDVI4SS/moc_ApplicationController.cpp.json
+/home/pi/BGPad/build/bgpad_autogen/include/../METKDVI4SS/moc_SystemController.cpp.json
+/home/pi/BGPad/build/bgpad_autogen/include/../UVLADIE3JM/moc_Backend.cpp.json

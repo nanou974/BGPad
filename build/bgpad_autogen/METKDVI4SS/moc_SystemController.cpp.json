@@ -1,0 +1,50 @@
+{
+    "classes": [
+        {
+            "className": "SystemController",
+            "lineNumber": 7,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "currentTime",
+                    "notify": "currentTimeChanged",
+                    "read": "currentTime",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "SystemController",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "currentTimeChanged",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "private",
+                    "index": 1,
+                    "name": "updateTime",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "SystemController.h",
+    "outputRevision": 68
+}

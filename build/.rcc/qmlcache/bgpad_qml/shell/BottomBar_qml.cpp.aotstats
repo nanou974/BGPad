@@ -1,0 +1,20 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 702,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 12
+                    }
+                ],
+                "filepath": "/home/pi/BGPad/qml/shell/BottomBar.qml"
+            }
+        ],
+        "moduleId": "BGPad(bgpad)"
+    }
+]

@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="/qt/qml/BGPad/">
+    <file alias="qml/Main.qml">/home/pi/BGPad/qml/Main.qml</file>
+    <file alias="qml/shell/Shell.qml">/home/pi/BGPad/qml/shell/Shell.qml</file>
+    <file alias="qml/shell/TopBar.qml">/home/pi/BGPad/qml/shell/TopBar.qml</file>
+    <file alias="qml/shell/BottomBar.qml">/home/pi/BGPad/qml/shell/BottomBar.qml</file>
+    <file alias="qml/shell/WorkspaceView.qml">/home/pi/BGPad/qml/shell/WorkspaceView.qml</file>
+    <file alias="qml/shell/Workspace.qml">/home/pi/BGPad/qml/shell/Workspace.qml</file>
+    <file alias="qml/components/BGButton.qml">/home/pi/BGPad/qml/components/BGButton.qml</file>
+    <file alias="qml/components/BGLabel.qml">/home/pi/BGPad/qml/components/BGLabel.qml</file>
+    <file alias="qml/components/BGTile.qml">/home/pi/BGPad/qml/components/BGTile.qml</file>
+  </qresource>
+</RCC>
+

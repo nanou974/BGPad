@@ -1,0 +1,15 @@
+--resource
+/home/pi/BGPad/build/.qt/rcc/qmake_BGPad.qrc
+--resource
+/home/pi/BGPad/build/.qt/rcc/bgpad_raw_qml_0.qrc
+--resource
+/home/pi/BGPad/build/.qt/rcc/bgpad_raw_qml_0_extra_qmldirs.qrc
+/qt/qml/BGPad/qml/Main.qml
+/qt/qml/BGPad/qml/shell/Shell.qml
+/qt/qml/BGPad/qml/shell/TopBar.qml
+/qt/qml/BGPad/qml/shell/BottomBar.qml
+/qt/qml/BGPad/qml/shell/WorkspaceView.qml
+/qt/qml/BGPad/qml/shell/Workspace.qml
+/qt/qml/BGPad/qml/components/BGButton.qml
+/qt/qml/BGPad/qml/components/BGLabel.qml
+/qt/qml/BGPad/qml/components/BGTile.qml

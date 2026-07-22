@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on visibility.",
+                        "functionName": "visibility",
+                        "line": 6
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 694,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 10
+                    }
+                ],
+                "filepath": "/home/pi/BGPad/qml/Main.qml"
+            }
+        ],
+        "moduleId": "BGPad(bgpad)"
+    }
+]

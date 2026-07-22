@@ -1,0 +1,15 @@
+-rootPath
+/home/pi/BGPad
+-cmake-output
+-output-file
+/home/pi/BGPad/build/.qt/qml_imports/bgpad_build.cmake
+-importPath
+/home/pi/BGPad/build/BGPad
+-importPath
+/home/pi/BGPad/build
+-importPath
+/usr/lib/aarch64-linux-gnu/qt6/qml
+-qrcFiles
+/home/pi/BGPad/build/.qt/rcc/qmake_BGPad.qrc
+/home/pi/BGPad/build/.qt/rcc/bgpad_raw_qml_0.qrc
+/home/pi/BGPad/build/.qt/rcc/bgpad_raw_qml_0_extra_qmldirs.qrc

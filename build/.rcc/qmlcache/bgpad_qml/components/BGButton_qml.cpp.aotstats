@@ -1,0 +1,52 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 15,
+                        "durationMicroseconds": 521,
+                        "errorMessage": "Cannot load property text from (component in /home/pi/BGPad/qml/components/BGButton.qml)::parent with type QQuickItem.",
+                        "functionName": "text",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 416,
+                        "errorMessage": "Cannot load property textColor from (component in /home/pi/BGPad/qml/components/BGButton.qml)::parent with type QQuickItem.",
+                        "functionName": "color",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 806,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 1014,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 528,
+                        "errorMessage": "Cannot load property hovered from (component in /home/pi/BGPad/qml/components/BGButton.qml)::parent with type QQuickItem.",
+                        "functionName": "color",
+                        "line": 23
+                    }
+                ],
+                "filepath": "/home/pi/BGPad/qml/components/BGButton.qml"
+            }
+        ],
+        "moduleId": "BGPad(bgpad)"
+    }
+]

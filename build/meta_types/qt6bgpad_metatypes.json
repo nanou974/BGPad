@@ -1,0 +1,135 @@
+[
+    {
+        "classes": [
+            {
+                "className": "ApplicationModel",
+                "lineNumber": 9,
+                "object": true,
+                "qualifiedClassName": "ApplicationModel",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QAbstractListModel"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "ApplicationModel.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "ApplicationController",
+                "lineNumber": 8,
+                "object": true,
+                "properties": [
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "name": "model",
+                        "read": "model",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "ApplicationModel*",
+                        "user": false
+                    }
+                ],
+                "qualifiedClassName": "ApplicationController",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "ApplicationController.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "SystemController",
+                "lineNumber": 7,
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "name": "currentTime",
+                        "notify": "currentTimeChanged",
+                        "read": "currentTime",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QString",
+                        "user": false
+                    }
+                ],
+                "qualifiedClassName": "SystemController",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "name": "currentTimeChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "private",
+                        "index": 1,
+                        "name": "updateTime",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "SystemController.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "Backend",
+                "lineNumber": 8,
+                "methods": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "command",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 0,
+                        "name": "launchApplication",
+                        "returnType": "void"
+                    }
+                ],
+                "object": true,
+                "qualifiedClassName": "Backend",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "Backend.h",
+        "outputRevision": 68
+    }
+]

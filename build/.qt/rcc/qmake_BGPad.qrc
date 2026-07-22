@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/BGPad">
+    <file alias="qmldir">/home/pi/BGPad/build/BGPad/qmldir</file>
+  </qresource>
+</RCC>
+

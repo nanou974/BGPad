@@ -1,0 +1,13 @@
+module BGPad
+typeinfo bgpad.qmltypes
+prefer :/qt/qml/BGPad/
+Main 1.0 qml/Main.qml
+Shell 1.0 qml/shell/Shell.qml
+TopBar 1.0 qml/shell/TopBar.qml
+BottomBar 1.0 qml/shell/BottomBar.qml
+WorkspaceView 1.0 qml/shell/WorkspaceView.qml
+Workspace 1.0 qml/shell/Workspace.qml
+BGButton 1.0 qml/components/BGButton.qml
+BGLabel 1.0 qml/components/BGLabel.qml
+BGTile 1.0 qml/components/BGTile.qml
+

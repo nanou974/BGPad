@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 682,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 1505,
+                        "errorMessage": "Cannot access value for name system",
+                        "functionName": "text",
+                        "line": 27
+                    }
+                ],
+                "filepath": "/home/pi/BGPad/qml/shell/TopBar.qml"
+            }
+        ],
+        "moduleId": "BGPad(bgpad)"
+    }
+]

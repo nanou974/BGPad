@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "ApplicationModel",
+            "lineNumber": 9,
+            "object": true,
+            "qualifiedClassName": "ApplicationModel",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QAbstractListModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ApplicationModel.h",
+    "outputRevision": 68
+}

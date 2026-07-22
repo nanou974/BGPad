@@ -1,0 +1,52 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 682,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 6
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 1874,
+                        "errorMessage": "Cannot access value for name applicationController",
+                        "functionName": "model",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 204,
+                        "errorMessage": "Cannot access value for name model",
+                        "functionName": "text",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 109,
+                        "errorMessage": "Cannot access value for name model",
+                        "functionName": "enabled",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 1087,
+                        "errorMessage": "Cannot access value for name backend",
+                        "functionName": "onClicked",
+                        "line": 18
+                    }
+                ],
+                "filepath": "/home/pi/BGPad/qml/shell/Workspace.qml"
+            }
+        ],
+        "moduleId": "BGPad(bgpad)"
+    }
+]
